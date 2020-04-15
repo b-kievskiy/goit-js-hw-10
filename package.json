@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/b-kievskiy/goit-js-hw-10/issues"
   },
-  "homepage": "https://github.com/b-kievskiy/goit-js-hw-10#readme",
+  "homepage": "https://b-kievskiy.github.io/goit-js-hw-10/",
   "devDependencies": {
     "@babel/core": "^7.8.7",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
